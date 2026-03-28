@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-WildChef-1.0";
 const contentToCache = [
     "Build/WildChef.loader.js",
-    "Build/WildChef.framework.js.br",
-    "Build/WildChef.data.br",
-    "Build/WildChef.wasm.br",
+    "Build/WildChef.framework.js",
+    "Build/WildChef.data",
+    "Build/WildChef.wasm",
     "TemplateData/style.css"
 
 ];
